@@ -16,8 +16,8 @@ This project outlines a real-time analysis system for stock market data using Ap
 - **Apache Kafka**
 
 ### Architecture Overview:
+![Architecture](https://github.com/pavanmathari/Stock-Market-Real-Time-Analysis-Using-Apache-Kafka/assets/83055565/7bbd0a7c-723f-4fbe-a7eb-8fcb10c0f420)
 
-Please refer to the attached architecture diagram for a visual representation of the system design.
 
 ### Data File:
 
